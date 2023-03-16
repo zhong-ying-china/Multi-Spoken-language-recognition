@@ -9,7 +9,7 @@ Our model currently supports 13 languages: English, Spanish, Italian, French, Ge
 The model uses convolutional and recurrent neural networks trained on two thousands of hours of speech data(private). Approximately 150 hours of speech supervision per language.
 If this technology interests you, please have a look at our API available on [lang]()
 
-<img width='400' height='600' src='https://github.com/zhong-ying-china/Multi-Spoken-language-recognition/blob/main/network.jpg'><br/>
+<img width='400' height='600' src='https://github.com/zhong-ying-china/Multi-Spoken-language-recognition/blob/main/network.png'><br/>
 
 
 ## Available models and languages
